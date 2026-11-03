@@ -12,6 +12,11 @@ dist
 dist-ssr
 *.local
 
+# Never commit local credentials or tokens
+.env
+.env.*
+!.env.example
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
