@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">LEO.AI — Civic intelligence, made human</title>
+<desc id="desc">Dark blue gradient banner with LEO.AI title and civic-assistance tagline</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081628"/><stop offset="1" stop-color="#112a3d"/></linearGradient><linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#63e2cb"/><stop offset="1" stop-color="#9bbcff"/></linearGradient><radialGradient id="orb"><stop stop-color="#2dd6b6" stop-opacity=".35"/><stop offset="1" stop-color="#2dd6b6" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+<circle cx="1020" cy="180" r="255" fill="url(#orb)"/>
+<g fill="none" stroke="#79e6d8" opacity=".18" stroke-width="2"><circle cx="1010" cy="188" r="138"/><circle cx="1010" cy="188" r="102"/><circle cx="1010" cy="188" r="66"/><path d="M836 188h352M1010 10v355M887 66l246 245M1132 67L888 312"/></g>
+<g fill="#63e2cb"><circle cx="1010" cy="188" r="20"/><circle cx="1147" cy="188" r="7"/><circle cx="912" cy="95" r="7"/><circle cx="1083" cy="258" r="6"/></g>
+<rect x="66" y="52" width="173" height="35" rx="17" fill="#133b46" stroke="#2f8e83"/>
+<text x="87" y="76" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#84f3da" letter-spacing="1.4">OPEN-SOURCE PROJECT</text>
+<text x="62" y="193" font-family="Arial, sans-serif" font-size="98" font-weight="800" fill="#fff" letter-spacing="-4">LEO<tspan fill="url(#ink)">.AI</tspan></text>
+<text x="67" y="246" font-family="Arial, sans-serif" font-size="27" font-weight="500" fill="#dce8fa">Civic intelligence, made human.</text>
+<text x="68" y="298" font-family="Arial, sans-serif" font-size="18" fill="#9eb8ca">Report  /  Understand  /  Explore  /  Track locally</text>
+</svg>
