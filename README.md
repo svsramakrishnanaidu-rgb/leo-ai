@@ -11,6 +11,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-6-3178C6?logo=typescript&logoColor=white"/>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white"/>
+  <a href="https://github.com/svsramakrishnanaidu-rgb/leo-ai/actions/workflows/quality.yml"><img alt="Quality checks" src="https://github.com/svsramakrishnanaidu-rgb/leo-ai/actions/workflows/quality.yml/badge.svg"/></a>
 </p>
 
 [Explore the application](#application-tour) · [Get started](#quick-start) · [Architecture](#how-it-works) · [Security](#security--data-handling)
