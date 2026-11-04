@@ -72,6 +72,10 @@ export default function TrackPage() {
 
         {result && (
           <motion.div initial="hidden" animate="visible" variants={stagger} className="space-y-6">
+            <div role="status" className="rounded-[14px] border border-[#DDD6FE] bg-[#F5F3FF] p-4 text-[13px] leading-relaxed text-[#4C1D95]">
+              <strong>{getDemoComplaints().some(c => c.trackingId === result.trackingId) ? 'Demo record — not an official government status.' : 'Locally saved report — not an official government submission.'}</strong>
+              {' '}This prototype stores reports in your browser. The timeline below does not reflect verified municipal actions.
+            </div>
             <motion.div variants={fadeUp} className="glass-card-static !rounded-[18px] !p-6">
               <div className="flex items-start justify-between mb-5">
                 <h2 className="text-[18px] font-bold text-[#111129] flex-1" style={{ fontFamily: 'Manrope' }}>{result.title}</h2>
