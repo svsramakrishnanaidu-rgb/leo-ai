@@ -14,7 +14,10 @@
   <a href="https://github.com/svsramakrishnanaidu-rgb/leo-ai/actions/workflows/quality.yml"><img alt="Quality checks" src="https://github.com/svsramakrishnanaidu-rgb/leo-ai/actions/workflows/quality.yml/badge.svg"/></a>
 </p>
 
-[Explore the application](#application-tour) · [Get started](#quick-start) · [Architecture](#how-it-works) · [Security](#security--data-handling)
+<a href="https://leo-ai-pi.vercel.app/"><img alt="Visit LEO.AI website" src="https://img.shields.io/badge/OPEN_WEB_APP-LEO.AI-0f766e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/svsramakrishnanaidu-rgb/leo-ai"><img alt="View source code" src="https://img.shields.io/badge/VIEW_SOURCE-GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+[Feature tour](#application-tour) · [Get started](#quick-start) · [Architecture](#how-it-works) · [Security](#security--data-handling)
 
 </div>
 
@@ -117,6 +120,14 @@ docs/assets/    repository presentation assets
 ## Contribute
 
 Suggestions, issues and pull requests are welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+## Project links
+
+- **Website previously shared by the project creator:** [LEO.AI on Vercel](https://leo-ai-pi.vercel.app/)
+- **Source code:** [GitHub / leo-ai](https://github.com/svsramakrishnanaidu-rgb/leo-ai)
+- **Related portfolio:** [Developer projects](https://github.com/svsramakrishnanaidu-rgb/bsr-learning/blob/main/PROJECTS.md)
+
+*The deployment link was provided by the project creator; its current availability has not been independently checked. The application remains an independent browser-local prototype, not an official government system.*
 
 ## Project creator
 
