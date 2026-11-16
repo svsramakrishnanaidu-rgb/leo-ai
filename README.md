@@ -109,6 +109,20 @@ public/         icons and public assets
 docs/assets/    repository presentation assets
 ```
 
+## Reviewer walkthrough
+
+Use the local development server and synthetic data to evaluate the application without providing an AI credential.
+
+| Scenario | What to examine |
+| --- | --- |
+| Draft a sample civic issue | Categorization, suggested department and locally saved report |
+| Use the assistant without a key | Rule-based fallback and understandable error handling |
+| Open Track, Map and Dashboard | Consistency of the locally stored reports across views |
+| Change the language | English, Telugu and Hindi interface coverage |
+| Reload the browser | Persistence within the same browser profile; no cross-device sync |
+
+This is a suggested manual review checklist, not a record of executed tests. Review the [quality workflow](.github/workflows/quality.yml) for automated lint and build checks. These checks do not validate official complaint submission or AI accuracy.
+
 ## Roadmap
 
 - [ ] Proxy all AI requests through a secure backend
