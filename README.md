@@ -148,3 +148,7 @@ Suggestions, issues and pull requests are welcome. See [CONTRIBUTING.md](./CONTR
 **Sandu Venkata Siva Ramakrishna** · [GitHub](https://github.com/svsramakrishnanaidu-rgb)
 
 <p align="center"><sub>Designed to make civic reporting easier to understand. Built as an independent learning and demonstration project.</sub></p>
+
+## Engineering guide
+
+[Explore working mechanisms, architecture diagrams and acceptance criteria](ENGINEERING_GUIDE.md). The guide distinguishes documented functionality from proposed improvements and tests that still require execution.
