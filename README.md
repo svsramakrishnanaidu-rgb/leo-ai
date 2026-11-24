@@ -139,7 +139,7 @@ Suggestions, issues and pull requests are welcome. See [CONTRIBUTING.md](./CONTR
 
 - **Website previously shared by the project creator:** [LEO.AI on Vercel](https://leo-ai-pi.vercel.app/)
 - **Source code:** [GitHub / leo-ai](https://github.com/svsramakrishnanaidu-rgb/leo-ai)
-- **Related portfolio:** [Developer projects](https://github.com/svsramakrishnanaidu-rgb/bsr-learning/blob/main/PROJECTS.md)
+- **Related portfolio:** [Developer projects](https://github.com/svsramakrishnanaidu-rgb/svsramakrishnanaidu-rgb/blob/main/ENGINEERING_GUIDE.md)
 
 *The deployment link was provided by the project creator; its current availability has not been independently checked. The application remains an independent browser-local prototype, not an official government system.*
 
